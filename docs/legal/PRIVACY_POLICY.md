@@ -11,6 +11,8 @@ We collect several different types of information for various purposes to provid
 ### 1.1 Personal Data
 While using our App, we may ask you to provide us with certain personally identifiable information, including but not limited to:
 *   Email address
+*   Phone number
+*   Date of birth
 *   First name and last name
 *   Profile picture
 
